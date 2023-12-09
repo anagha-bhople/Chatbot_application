@@ -2,9 +2,6 @@ import streamlit as st
 import streamlit.components.v1 as components
 import numpy as np
 #components.iframe("https://docs.streamlit.io/en/latest")
-import abacusai
-
-import abacusai
 
 st.title("General Bot")
 
